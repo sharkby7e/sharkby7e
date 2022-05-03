@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 🌱
+I am a determined and eternal lover of learning. I look to find the answers hidden within the problems. I ravenously subsume all that I can into my ever-expanding library of tools, solutions, and neat projects. Check them out below!
 
 <!--
 **sharkby7e/sharkby7e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
