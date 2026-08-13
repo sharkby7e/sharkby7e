@@ -4,8 +4,8 @@ I'm a software engineer currently looking for work. [Here's my resume!](https://
 I've got 4 years of experience at BackerKit and Apple. I love writing rails code.
 
 I'm currently working on: 
- - a [puzzle site](https://sidquinsaat.com/) where people can solve the [knight's tour](https://en.wikipedia.org/wiki/Knight%27s_tour)
- - a household app where we can keep track of our pet's needs called [pillard](https://github.com/sharkby7e/pillard)
+ - A [puzzle site](https://sidquinsaat.com/) where people can solve the [knight's tour](https://en.wikipedia.org/wiki/Knight%27s_tour)
+ - A household app where we can keep track of our pet's needs called [pillard](https://github.com/sharkby7e/pillard)
    
 <!--
 **sharkby7e/sharkby7e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
