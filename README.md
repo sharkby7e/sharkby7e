@@ -1,6 +1,12 @@
 ### Hi there I'm Sid 🌱
-I am a determined and eternal lover of learning. I look to find the answers hidden within the problems. I ravenously subsume all that I can into my ever-expanding library of tools, solutions, and neat projects. Check out my work below!
+I'm a software engineer currently looking for work. [Here's my resume!](https://docs.google.com/document/d/1kQC1paZQB8h110PULxN4kYQSvYCymUIEhItAqbnFGd8/edit?usp=sharing)
 
+I've got 4 years of experience at BackerKit and Apple. I love writing rails code.
+
+I'm currently working on: 
+ - a [puzzle site](https://sidquinsaat.com/) where people can solve the [knight's tour](https://en.wikipedia.org/wiki/Knight%27s_tour)
+ - a household app where we can keep track of our pet's needs called [pillard](https://github.com/sharkby7e/pillard)
+   
 <!--
 **sharkby7e/sharkby7e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
