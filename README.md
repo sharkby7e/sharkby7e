@@ -1,7 +1,7 @@
 ### Hi there I'm Sid 🌱
 I'm a software engineer currently looking for work. [Here's my resume!](https://docs.google.com/document/d/1kQC1paZQB8h110PULxN4kYQSvYCymUIEhItAqbnFGd8/edit?usp=sharing)
 
-I've got 4 years of experience at BackerKit and Apple. I love writing rails code.
+I've got 4 years of Rails experience at BackerKit and Apple. I love building with Rails!
 
 I'm currently working on: 
  - A [puzzle site](https://sidquinsaat.com/) where people can solve the [knight's tour](https://en.wikipedia.org/wiki/Knight%27s_tour)
